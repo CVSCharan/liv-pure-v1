@@ -24,7 +24,7 @@ const MainPage = () => {
               designed to rapidly optimize liver function.
             </h2>
             <h2 className={mainPageStyles.secondDivSecondHeading}>
-              Liv Pure is unlike anything you've ever tried or experienced in
+              Liv Pure is unlike anything you have ever tried or experienced in
               your life before.
             </h2>
           </div>
@@ -48,15 +48,15 @@ const MainPage = () => {
                 full days from your original purchase.
               </h2>
               <h2 className={mainPageStyles.secondDivThirdHeading}>
-                If you're not totally and completely satisfied with this
+                If you are not totally and completely satisfied with this
                 product, your results or your experience in the first 60 days
                 from your purchase simply let us know by calling our toll free
-                number or dropping us an email and we'll give you a full refund
+                number or dropping us an email and we will give you a full refund
                 within 48 hours of the product being returned.
               </h2>
               <h2 className={mainPageStyles.secondDivThirdHeading}>
-                That's right, simply return the product, even empty bottles,
-                anytime within 60 days of your purchase and you'll receive a
+                That is right, simply return the product, even empty bottles,
+                anytime within 60 days of your purchase and you will receive a
                 full, no questions asked refund (less shipping and handling).
               </h2>
             </div>

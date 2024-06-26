@@ -9,7 +9,7 @@ const SecondPage = () => {
     <div className={secondPageStyles.secondPage}>
       <div className={secondPageStyles.firstDiv}>
         <h2 className={secondPageStyles.firstDivHeadingOne}>
-          Inside every Liv Pure capsule you'll find:
+          Inside every Liv Pure capsule you will find:
         </h2>
         <h2 className={secondPageStyles.firstDivHeadingTwo}>
           5 super-nutrients designed to support the bodies detoxification
