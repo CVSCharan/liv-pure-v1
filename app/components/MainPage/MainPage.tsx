@@ -7,7 +7,7 @@ const MainPage = () => {
     <div className={mainPageStyles.mainPage}>
       <div className={mainPageStyles.firstDiv}>
         <Image
-          src="/liv-pure-logo.webp"
+          src="/liv-pure-logo-image.webp"
           alt="Java Burn img 01"
           height={1000}
           width={1000}
